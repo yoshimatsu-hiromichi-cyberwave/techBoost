@@ -32,7 +32,7 @@
 
 ## リーンキャンバス
   https://drive.google.com/file/d/1WXMwcDj-haO7WScNbm5NavM2SKYjuD8_/view?usp=sharing
-
+  <img width="950" alt="リーンキャンバス" src="https://github.com/UtaSuzuki/techBoost/blob/master/%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%90%E3%82%B9_%E9%88%B4%E6%9C%A8%E7%A5%90%E5%A4%AA.png">
 
 ## エレベータぴっち
   雑誌やSNSに載っている素晴らしい天体写真を自分でも撮ってみたい
